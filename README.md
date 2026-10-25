@@ -16,6 +16,8 @@ Research proposal and source audits for **Financial Claims Under Revision: An As
 
 ## Chosen direction
 
+**Pilot work has started:** see [pilot status and protocol](pilot/README.md). The final proposal remains the blueprint. Initial claims are drafts awaiting independent review; no experimental results are claimed.
+
 The proposal evaluates financial claims under original, historical, and corrected filing-authority policies. It combines the financial-evidence idea with temporal leakage controls and statistical safeguards from the other supplied documents.
 
 This is a research proposal, not a report of completed experiments. Unverified references, conflicting metadata, dataset limitations, and regulatory-source discrepancies are recorded explicitly.
