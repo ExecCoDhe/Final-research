@@ -1,0 +1,4 @@
+resource_id,related_source_id,url,retrieved_date_Asia_Kolkata,sha256,purpose
+P19-XBRL,P19,https://www.sec.gov/Archives/edgar/data/1093691/000155837020002267/plug-20191231.xml,2026-10-26,da20467ab2a0d68e5b04be66e0d6aa8328e511a8bf41ebddc709e072d8bb1f76,Original external XBRL instance; corroborates table values and contexts
+SP-API,SP0+SPW+SP1,https://data.sec.gov/submissions/CIK0000867773.json,2026-10-26,ade032340b950a928e32b621ef0156542d0b769d5a61f86c5029bb3d27394390,SEC API acceptance UTC cross-check; current metadata snapshot is not historical public availability
+P-CF,P19+P20,https://data.sec.gov/api/xbrl/companyfacts/CIK0001093691.json,2026-10-25,693a4f1fb6d5474c0cef2ae383a813e4f7c21076e76c0ef2cd96c185c2696a0b,Supplementary numeric cross-check; aggregate is mutable and does not alone prove correction links
