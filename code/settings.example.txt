@@ -1,0 +1,20 @@
+# Copy this file to settings.txt and fill in your own values.
+# settings.txt is ignored by git, so your keys are never uploaded to GitHub.
+
+# The SEC asks automated tools to identify themselves with a contact email.
+SEC_EMAIL=
+
+# Free AI model keys (you only need one).
+# Gemini: https://aistudio.google.com/apikey  (sign in with Google, click "Create API key")
+# Groq:   https://console.groq.com/keys      (sign up, click "Create API Key")
+GEMINI_API_KEY=
+GROQ_API_KEY=
+
+# Model names. Providers rename models over time; run 3_RUN_AI_TEST.bat with
+# --list-models to see what your key can use, then edit these lines.
+GEMINI_MODEL=gemini-2.5-flash
+GROQ_MODEL=llama-3.3-70b-versatile
+OLLAMA_MODEL=llama3.1:8b
+
+# Free tiers limit requests per minute; this pause avoids being blocked.
+SECONDS_BETWEEN_CALLS=5

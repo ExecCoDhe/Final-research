@@ -1,0 +1,159 @@
+fact_id,family_id,doc_id,metric,period_start,period_end,value,step,unit,role,replaces_fact_id
+A001-F1,A001,A001-O,Net income (loss),2023-01-01,2023-12-31,2940,1,USD million (negative = loss),original,
+A001-F2,A001,A001-R,Net income (loss),2023-01-01,2023-12-31,2796,1,USD million (negative = loss),corrected,A001-F1
+A001-F3,A001,A001-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-21491,1,USD million,original,
+A001-F4,A001,A001-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-21491,1,USD million,corrected,A001-F3
+A002-F1,A002,A002-O,Net income (loss),2023-01-01,2023-12-31,-32.334,0.001,USD million (negative = loss),original,
+A002-F2,A002,A002-R,Net income (loss),2023-01-01,2023-12-31,-28.354,0.001,USD million (negative = loss),corrected,A002-F1
+A002-F3,A002,A002-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2023-01-01,2023-12-31,122.368,0.001,USD million,original,
+A002-F4,A002,A002-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2023-01-01,2023-12-31,122.368,0.001,USD million,corrected,A002-F3
+A003-F1,A003,A003-O,Net income (loss),2023-01-01,2023-12-31,-106.254,0.001,USD million (negative = loss),original,
+A003-F2,A003,A003-R,Net income (loss),2023-01-01,2023-12-31,-108.048,0.001,USD million (negative = loss),corrected,A003-F1
+A003-F3,A003,A003-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-123.113,0.001,USD million,original,
+A003-F4,A003,A003-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-123.113,0.001,USD million,corrected,A003-F3
+A004-F1,A004,A004-O,Net income (loss),2023-01-01,2023-12-31,-80.606,0.001,USD million (negative = loss),original,
+A004-F2,A004,A004-R,Net income (loss),2023-01-01,2023-12-31,-60.627,0.001,USD million (negative = loss),corrected,A004-F1
+A004-F3,A004,A004-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,8.936,0.001,USD million,original,
+A004-F4,A004,A004-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,8.936,0.001,USD million,corrected,A004-F3
+A005-F1,A005,A005-O,Net income (loss),2023-01-01,2023-12-31,267.436,0.001,USD million (negative = loss),original,
+A005-F2,A005,A005-R,Net income (loss),2023-01-01,2023-12-31,224.622,0.001,USD million (negative = loss),corrected,A005-F1
+A005-F3,A005,A005-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-341.904,0.001,USD million,original,
+A005-F4,A005,A005-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-341.904,0.001,USD million,corrected,A005-F3
+A006-F1,A006,A006-O,Net income (loss),2023-01-01,2023-12-31,41.577,0.001,USD million (negative = loss),original,
+A006-F2,A006,A006-R,Net income (loss),2023-01-01,2023-12-31,35.596,0.001,USD million (negative = loss),corrected,A006-F1
+A006-F3,A006,A006-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-123.275,0.001,USD million,original,
+A006-F4,A006,A006-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-123.275,0.001,USD million,corrected,A006-F3
+A007-F1,A007,A007-O,Net income (loss),2022-01-01,2022-12-31,17.741,0.001,USD million (negative = loss),original,
+A007-F2,A007,A007-R,Net income (loss),2022-01-01,2022-12-31,14.148,0.001,USD million (negative = loss),corrected,A007-F1
+A008-F1,A008,A008-O,Net income (loss),2022-07-01,2023-06-30,-6.741,0.001,USD million (negative = loss),original,
+A008-F2,A008,A008-R,Net income (loss),2022-07-01,2023-06-30,-7.743,0.001,USD million (negative = loss),corrected,A008-F1
+A008-F3,A008,A008-O,Net Cash Provided by (Used in) Investing Activities,2022-07-01,2023-06-30,-1.024,0.001,USD million,original,
+A008-F4,A008,A008-R,Net Cash Provided by (Used in) Investing Activities,2022-07-01,2023-06-30,-1.024,0.001,USD million,corrected,A008-F3
+A009-F1,A009,A009-O,Net income (loss),2023-01-01,2023-12-31,-63.956,0.001,USD million (negative = loss),original,
+A009-F2,A009,A009-R,Net income (loss),2023-01-01,2023-12-31,-77.558,0.001,USD million (negative = loss),corrected,A009-F1
+A009-F3,A009,A009-O,Net Cash Provided by (Used in) Financing Activities,2023-01-01,2023-12-31,23.907,0.001,USD million,original,
+A009-F4,A009,A009-R,Net Cash Provided by (Used in) Financing Activities,2023-01-01,2023-12-31,23.907,0.001,USD million,corrected,A009-F3
+A010-F1,A010,A010-O,Net income (loss),2023-01-01,2023-12-31,461.203,0.001,USD million (negative = loss),original,
+A010-F2,A010,A010-R,Net income (loss),2023-01-01,2023-12-31,450.258,0.001,USD million (negative = loss),corrected,A010-F1
+A010-F3,A010,A010-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-9639.503,0.001,USD million,original,
+A010-F4,A010,A010-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-9639.503,0.001,USD million,corrected,A010-F3
+A011-F1,A011,A011-O,Net income (loss),2023-01-01,2023-12-31,-40.326,0.001,USD million (negative = loss),original,
+A011-F2,A011,A011-R,Net income (loss),2023-01-01,2023-12-31,-116.537,0.001,USD million (negative = loss),corrected,A011-F1
+A011-F3,A011,A011-O,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-45.287,0.001,USD million,original,
+A011-F4,A011,A011-R,Net Cash Provided by (Used in) Investing Activities,2023-01-01,2023-12-31,-45.287,0.001,USD million,corrected,A011-F3
+A012-F1,A012,A012-O,Net income (loss),2023-01-01,2023-12-31,-47.841,0.001,USD million (negative = loss),original,
+A012-F2,A012,A012-R,Net income (loss),2023-01-01,2023-12-31,-57.534,0.001,USD million (negative = loss),corrected,A012-F1
+A012-F3,A012,A012-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2023-01-01,2023-12-31,216.389,0.001,USD million,original,
+A012-F4,A012,A012-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2023-01-01,2023-12-31,216.389,0.001,USD million,corrected,A012-F3
+A013-F1,A013,A013-O,Net income (loss),2022-10-01,2023-09-30,15.5,0.1,USD million (negative = loss),original,
+A013-F2,A013,A013-R,Net income (loss),2022-10-01,2023-09-30,10.5,0.1,USD million (negative = loss),corrected,A013-F1
+A013-F3,A013,A013-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-10-01,2023-09-30,1204.7,0.1,USD million,original,
+A013-F4,A013,A013-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-10-01,2023-09-30,1204.7,0.1,USD million,corrected,A013-F3
+A014-F1,A014,A014-O,Net income (loss),2022-01-01,2022-12-31,-3.638,0.001,USD million (negative = loss),original,
+A014-F2,A014,A014-R,Net income (loss),2022-01-01,2022-12-31,-5.419,0.001,USD million (negative = loss),corrected,A014-F1
+A014-F3,A014,A014-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,4.722,0.001,USD million,original,
+A014-F4,A014,A014-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,4.722,0.001,USD million,corrected,A014-F3
+A015-F1,A015,A015-O,Net income (loss),2022-04-01,2023-03-31,-37.943,0.001,USD million (negative = loss),original,
+A015-F2,A015,A015-R,Net income (loss),2022-04-01,2023-03-31,-18.368,0.001,USD million (negative = loss),corrected,A015-F1
+A015-F3,A015,A015-O,Net Cash Provided by (Used in) Investing Activities,2022-04-01,2023-03-31,-15.601,0.001,USD million,original,
+A015-F4,A015,A015-R,Net Cash Provided by (Used in) Investing Activities,2022-04-01,2023-03-31,-15.601,0.001,USD million,corrected,A015-F3
+A016-F1,A016,A016-O,Net income (loss),2022-01-01,2022-12-31,8.320,0.001,USD million (negative = loss),original,
+A016-F2,A016,A016-R,Net income (loss),2022-01-01,2022-12-31,7.064,0.001,USD million (negative = loss),corrected,A016-F1
+A016-F3,A016,A016-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-62.676,0.001,USD million,original,
+A016-F4,A016,A016-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-62.676,0.001,USD million,corrected,A016-F3
+A017-F1,A017,A017-O,Net income (loss),2022-01-01,2022-12-31,40.147,0.001,USD million (negative = loss),original,
+A017-F2,A017,A017-R,Net income (loss),2022-01-01,2022-12-31,33.412,0.001,USD million (negative = loss),corrected,A017-F1
+A017-F3,A017,A017-O,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,238.429,0.001,USD million,original,
+A017-F4,A017,A017-R,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,238.429,0.001,USD million,corrected,A017-F3
+A018-F1,A018,A018-O,Net income (loss),2022-10-01,2023-09-30,67.955,0.001,USD million (negative = loss),original,
+A018-F2,A018,A018-R,Net income (loss),2022-10-01,2023-09-30,62.361,0.001,USD million (negative = loss),corrected,A018-F1
+A018-F3,A018,A018-O,Revenues,2022-10-01,2023-09-30,1370.316,0.001,USD million,original,
+A018-F4,A018,A018-R,Revenues,2022-10-01,2023-09-30,1370.316,0.001,USD million,corrected,A018-F3
+A019-F1,A019,A019-O,Net income (loss),2021-01-01,2021-12-31,-43.438,0.001,USD million (negative = loss),original,
+A019-F2,A019,A019-R,Net income (loss),2021-01-01,2021-12-31,-65.855,0.001,USD million (negative = loss),corrected,A019-F1
+A019-F3,A019,A019-O,Net Cash Provided by (Used in) Investing Activities,2021-01-01,2021-12-31,-261.439,0.001,USD million,original,
+A019-F4,A019,A019-R,Net Cash Provided by (Used in) Investing Activities,2021-01-01,2021-12-31,-261.439,0.001,USD million,corrected,A019-F3
+A020-F1,A020,A020-O,Net income (loss),2022-01-01,2022-12-31,-29.799,0.001,USD million (negative = loss),original,
+A020-F2,A020,A020-R,Net income (loss),2022-01-01,2022-12-31,-33.584,0.001,USD million (negative = loss),corrected,A020-F1
+A020-F3,A020,A020-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-0.118,0.001,USD million,original,
+A020-F4,A020,A020-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-0.118,0.001,USD million,corrected,A020-F3
+A021-F1,A021,A021-O,Net income (loss),2022-01-01,2022-12-31,-7.003,0.001,USD million (negative = loss),original,
+A021-F2,A021,A021-R,Net income (loss),2022-01-01,2022-12-31,-6.754,0.001,USD million (negative = loss),corrected,A021-F1
+A021-F3,A021,A021-O,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,-0.282,0.001,USD million,original,
+A021-F4,A021,A021-R,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,-0.282,0.001,USD million,corrected,A021-F3
+A022-F1,A022,A022-O,Net income (loss),2022-01-01,2022-12-31,-37.871,0.001,USD million (negative = loss),original,
+A022-F2,A022,A022-R,Net income (loss),2022-01-01,2022-12-31,-40.472,0.001,USD million (negative = loss),corrected,A022-F1
+A022-F3,A022,A022-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-1.505,0.001,USD million,original,
+A022-F4,A022,A022-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-1.505,0.001,USD million,corrected,A022-F3
+A023-F1,A023,A023-O,Net income (loss),2022-01-01,2022-12-31,-81.351,0.001,USD million (negative = loss),original,
+A023-F2,A023,A023-R,Net income (loss),2022-01-01,2022-12-31,-86.804,0.001,USD million (negative = loss),corrected,A023-F1
+A023-F3,A023,A023-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-16.967,0.001,USD million,original,
+A023-F4,A023,A023-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-16.967,0.001,USD million,corrected,A023-F3
+A024-F1,A024,A024-O,Net income (loss),2022-01-01,2022-12-31,-41.543,0.001,USD million (negative = loss),original,
+A024-F2,A024,A024-R,Net income (loss),2022-01-01,2022-12-31,-26.772,0.001,USD million (negative = loss),corrected,A024-F1
+A024-F3,A024,A024-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-36.719,0.001,USD million,original,
+A024-F4,A024,A024-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-36.719,0.001,USD million,corrected,A024-F3
+A025-F1,A025,A025-O,Net income (loss),2022-01-01,2022-12-31,-3.095,0.001,USD million (negative = loss),original,
+A025-F2,A025,A025-R,Net income (loss),2022-01-01,2022-12-31,-3.595,0.001,USD million (negative = loss),corrected,A025-F1
+A025-F3,A025,A025-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,82.035,0.001,USD million,original,
+A025-F4,A025,A025-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,82.035,0.001,USD million,corrected,A025-F3
+A026-F1,A026,A026-O,Net income (loss),2022-01-01,2022-12-31,-266.578,0.001,USD million (negative = loss),original,
+A026-F2,A026,A026-R,Net income (loss),2022-01-01,2022-12-31,-230.342,0.001,USD million (negative = loss),corrected,A026-F1
+A026-F3,A026,A026-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,250.453,0.001,USD million,original,
+A026-F4,A026,A026-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,250.453,0.001,USD million,corrected,A026-F3
+A027-F1,A027,A027-O,Net income (loss),2022-01-01,2022-12-31,-59.927,0.001,USD million (negative = loss),original,
+A027-F2,A027,A027-R,Net income (loss),2022-01-01,2022-12-31,-44.469,0.001,USD million (negative = loss),corrected,A027-F1
+A027-F3,A027,A027-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,0.236,0.001,USD million,original,
+A027-F4,A027,A027-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,0.236,0.001,USD million,corrected,A027-F3
+A028-F1,A028,A028-O,Net income (loss),2022-01-01,2022-12-31,-165.742,0.001,USD million (negative = loss),original,
+A028-F2,A028,A028-R,Net income (loss),2022-01-01,2022-12-31,-245.031,0.001,USD million (negative = loss),corrected,A028-F1
+A028-F3,A028,A028-O,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,400.599,0.001,USD million,original,
+A028-F4,A028,A028-R,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,400.599,0.001,USD million,corrected,A028-F3
+A029-F1,A029,A029-O,Net income (loss),2022-05-01,2023-04-30,0.560,0.001,USD million (negative = loss),original,
+A029-F2,A029,A029-R,Net income (loss),2022-05-01,2023-04-30,0.259,0.001,USD million (negative = loss),corrected,A029-F1
+A029-F3,A029,A029-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-05-01,2023-04-30,149.266,0.001,USD million,original,
+A029-F4,A029,A029-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-05-01,2023-04-30,149.266,0.001,USD million,corrected,A029-F3
+A030-F1,A030,A030-O,Net income (loss),2021-12-30,2022-12-28,-24.091,0.001,USD million (negative = loss),original,
+A030-F2,A030,A030-R,Net income (loss),2021-12-30,2022-12-28,-21.229,0.001,USD million (negative = loss),corrected,A030-F1
+A030-F3,A030,A030-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2021-12-30,2022-12-28,900.486,0.001,USD million,original,
+A030-F4,A030,A030-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2021-12-30,2022-12-28,900.486,0.001,USD million,corrected,A030-F3
+A031-F1,A031,A031-O,Net income (loss),2022-01-01,2022-12-31,-165.1,0.1,USD million (negative = loss),original,
+A031-F2,A031,A031-R,Net income (loss),2022-01-01,2022-12-31,-173.3,0.1,USD million (negative = loss),corrected,A031-F1
+A031-F3,A031,A031-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-536,1,USD million,original,
+A031-F4,A031,A031-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-536,1,USD million,corrected,A031-F3
+A032-F1,A032,A032-O,Net income (loss),2022-01-01,2022-12-31,-332.632,0.001,USD million (negative = loss),original,
+A032-F2,A032,A032-R,Net income (loss),2022-01-01,2022-12-31,-340.414,0.001,USD million (negative = loss),corrected,A032-F1
+A032-F3,A032,A032-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,106.159,0.001,USD million,original,
+A032-F4,A032,A032-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,106.159,0.001,USD million,corrected,A032-F3
+A033-F1,A033,A033-O,Net income (loss),2021-04-01,2022-03-31,21.100,0.001,USD million (negative = loss),original,
+A033-F2,A033,A033-R,Net income (loss),2021-04-01,2022-03-31,18.716,0.001,USD million (negative = loss),corrected,A033-F1
+A033-F3,A033,A033-O,Net Cash Provided by (Used in) Investing Activities,2021-04-01,2022-03-31,-1.752,0.001,USD million,original,
+A033-F4,A033,A033-R,Net Cash Provided by (Used in) Investing Activities,2021-04-01,2022-03-31,-1.752,0.001,USD million,corrected,A033-F3
+A034-F1,A034,A034-O,Net income (loss),2022-01-01,2022-12-31,-51.529,0.001,USD million (negative = loss),original,
+A034-F2,A034,A034-R,Net income (loss),2022-01-01,2022-12-31,-53.702,0.001,USD million (negative = loss),corrected,A034-F1
+A034-F3,A034,A034-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,7.173,0.001,USD million,original,
+A034-F4,A034,A034-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,7.173,0.001,USD million,corrected,A034-F3
+A035-F1,A035,A035-O,Net income (loss),2022-01-01,2022-12-31,269.5,0.1,USD million (negative = loss),original,
+A035-F2,A035,A035-R,Net income (loss),2022-01-01,2022-12-31,266.3,0.1,USD million (negative = loss),corrected,A035-F1
+A035-F3,A035,A035-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,3709.9,0.1,USD million,original,
+A035-F4,A035,A035-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,3709.9,0.1,USD million,corrected,A035-F3
+A036-F1,A036,A036-O,Net income (loss),2022-01-01,2022-12-31,-223.8,0.1,USD million (negative = loss),original,
+A036-F2,A036,A036-R,Net income (loss),2022-01-01,2022-12-31,-211.6,0.1,USD million (negative = loss),corrected,A036-F1
+A036-F3,A036,A036-O,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-381.3,0.1,USD million,original,
+A036-F4,A036,A036-R,Net Cash Provided by (Used in) Investing Activities,2022-01-01,2022-12-31,-381.3,0.1,USD million,corrected,A036-F3
+A037-F1,A037,A037-O,Net income (loss),2021-01-01,2021-12-31,-18.887,0.001,USD million (negative = loss),original,
+A037-F2,A037,A037-R,Net income (loss),2021-01-01,2021-12-31,-18.457,0.001,USD million (negative = loss),corrected,A037-F1
+A037-F3,A037,A037-O,Net Cash Provided by (Used in) Investing Activities,2021-01-01,2021-12-31,-0.027,0.001,USD million,original,
+A037-F4,A037,A037-R,Net Cash Provided by (Used in) Investing Activities,2021-01-01,2021-12-31,-0.027,0.001,USD million,corrected,A037-F3
+A038-F1,A038,A038-O,Net income (loss),2022-01-01,2022-12-31,-115.760,0.001,USD million (negative = loss),original,
+A038-F2,A038,A038-R,Net income (loss),2022-01-01,2022-12-31,-169.509,0.001,USD million (negative = loss),corrected,A038-F1
+A038-F3,A038,A038-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,137.085,0.001,USD million,original,
+A038-F4,A038,A038-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,137.085,0.001,USD million,corrected,A038-F3
+A039-F1,A039,A039-O,Net income (loss),2022-01-01,2022-12-31,-57.6,0.1,USD million (negative = loss),original,
+A039-F2,A039,A039-R,Net income (loss),2022-01-01,2022-12-31,-63.3,0.1,USD million (negative = loss),corrected,A039-F1
+A039-F3,A039,A039-O,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,1806.4,0.1,USD million,original,
+A039-F4,A039,A039-R,"Revenue from Contract with Customer, Excluding Assessed Tax",2022-01-01,2022-12-31,1806.4,0.1,USD million,corrected,A039-F3
+A040-F1,A040,A040-O,Net income (loss),2022-01-01,2022-12-31,22.3,0.1,USD million (negative = loss),original,
+A040-F2,A040,A040-R,Net income (loss),2022-01-01,2022-12-31,20.6,0.1,USD million (negative = loss),corrected,A040-F1
+A040-F3,A040,A040-O,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,-11,1,USD million,original,
+A040-F4,A040,A040-R,Net Cash Provided by (Used in) Financing Activities,2022-01-01,2022-12-31,-11,1,USD million,corrected,A040-F3

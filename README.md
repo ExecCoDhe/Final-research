@@ -2,6 +2,17 @@
 
 Research proposal and source audits for **Financial Claims Under Revision: An As-of and Authority-Conditioned Verification Benchmark**.
 
+## Start here (added 26 October 2026)
+
+| File | What it is |
+|---|---|
+| [Study guide](docs/1_STUDY_GUIDE.md) | The whole project explained from zero: finance basics, ML basics, what we do, results, likely midterm questions |
+| [Literature survey](docs/2_LITERATURE_SURVEY.md) | Related-work draft, comparison table and prioritised reading list |
+| [Next steps and publication plan](docs/3_NEXT_STEPS_AND_PUBLICATION_PLAN.md) | Exact tasks, 7-week timeline, venues and integrity notes |
+| [Code](code/README.md) | Working verifiers, automatic SEC dataset builder (40 companies, 279 claims) and free-LLM evaluation; double-click `.bat` files |
+| [Results](code/results/SUMMARY.md) | All results in one table |
+| `midterm/Midterm_Presentation.pptx` | 15 midterm slides with speaker notes |
+
 ## Read or download
 
 | File | Contents |
